@@ -1,7 +1,8 @@
 # Node.js Queryable Encryption Tutorial
 
 - This project demonstrates an example implementation of Queryable Encryption for the MongoDB Node.js driver, including examples of Equality and Range queries.
-- To learn more about Queryable Encryption, see the Queryable Encryption section in the Server manual.
+- To learn more about Queryable Encryption, see the [Queryable Encryption section] in the Server manual.
+(https://www.mongodb.com/docs/manual/core/queryable-encryption/)
 
 ## Install Dependencies
 
