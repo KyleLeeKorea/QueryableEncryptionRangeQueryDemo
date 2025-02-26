@@ -3,8 +3,7 @@
 - This project demonstrates an example implementation of Queryable Encryption for the MongoDB Node.js driver, including examples of Equality and Range queries.
 - This content has been modified and enhanced to enable Range Queries based on the following:
 [MongoDB University - Queryable Encryption Examples](https://github.com/mongodb-university/docs-in-use-encryption-examples/tree/main/queryable-encryption) 
-- To learn more about Queryable Encryption, see the [Queryable Encryption section] in the Server manual.
-(https://www.mongodb.com/docs/manual/core/queryable-encryption/)
+- To learn more about Queryable Encryption, see the [[Queryable Encryption section]](https://www.mongodb.com/docs/manual/core/queryable-encryption/) in the Server manual.
 
 ## Install Dependencies
 
