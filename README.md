@@ -9,8 +9,8 @@
 To run this sample application, you first need to install the following
 dependencies:
 
-- MongoDB Server version 7.0 or later
-- Automatic Encryption Shared Library version 7.0 or later
+- MongoDB Server version 8.0 or later
+- Automatic Encryption Shared Library version 8.0 or later
 - Node.js
 - npm
 
@@ -21,15 +21,6 @@ For more information on installation requirements for {+qe+}, see [Installation 
 1. Copy the `env_template` file in the root of the project directory to a file named `.env`.
 
 1. Replace the placeholder values in the `.env` file with your own credentials.
-
-1. Start a MongoDB replica set with three nodes.
-
-   **Note:** If you are using [mtools](https://github.com/rueckstiess/mtools),
-   you can create a replica set by running the following command:
-
-   ```sh
-   mlaunch init --replicaset --nodes 3
-   ```
 
 ## Run the App
 
